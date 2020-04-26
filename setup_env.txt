@@ -1,0 +1,9 @@
+1. python -m venv env
+
+2. Select Python interpreter
+
+3. Install PyQt5 packages and tools
+pip list
+pip install PyQt5 pyqt5-tools
+
+
